@@ -6,7 +6,7 @@ Este projeto é um assistente conversacional que permite fazer perguntas a docum
 
 Caso queira ver o programa rodando online, você pode acessar o seguinte link:
 
-[Assistente Conversacional Online](https://arthurruiz.streamlit.app/)
+https://arthurruiz.streamlit.app/
 
 ## Executando Localmente
 
