@@ -102,7 +102,7 @@ def validate_query(query):
         return False
     return True
 
-st.title("Assistente Conversacional Baseado em PDFs")
+st.title("Assistente Conversacional Baseado em LLM")
 
 uploaded_files = st.file_uploader("Envie arquivos PDF", type="pdf", accept_multiple_files=True)
 if uploaded_files:
